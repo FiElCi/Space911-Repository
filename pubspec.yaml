@@ -38,6 +38,7 @@ dependencies:
   google_fonts: ^2.3.2
   smooth_page_indicator: ^1.0.0+2
   carousel_slider: ^4.1.1
+  firebase_core: ^1.17.0
 
 dev_dependencies:
   flutter_test:
