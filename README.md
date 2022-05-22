@@ -17,7 +17,7 @@ Space-911'in Meetime Adlı Ürün Repositorysidir.
    Meetime
 
 ## Ürün Açıklaması
-* Meetime uygulamamız ile ortak ilgi alanlarına sahip yakın konumdaki insanların iletişim kurmasını, gerçek hayatta görüşüp birbirlerini bu alanlarda desteklemesini, yakın konumdaki network alanı yaratmasını sağlayacağız. Meetime ile şehrinde kendi network alanınla tanış!
+* Meetime uygulamamız ile ortak ilgi alanlarına sahip yakın konumdaki insanların iletişim kurmasını, gerçek hayatta görüşüp birbirlerini bu alanlarda desteklemesini, yakın konumdaki kişilerin network alanı yaratmasını sağlayacağız. Meetime ile şehrinde kendi network alanını yarat!
 
 ## Ürün Özellikleri
 
@@ -27,9 +27,9 @@ Space-911'in Meetime Adlı Ürün Repositorysidir.
 * Network sağlama 
 
 ## Hedef Kitle
-* Şehrinde ortak aktivite yapmak isteyen kişiler 
-* Online yerine reelde yazılım öğrenmeye istekli kişiler
-* Şehrindeki network alanından faydalanmak isteyen kişiler
+* Şehrinde ortak aktivite yapacak kişilerle tanışmak isteyenler
+* Online öğrendiği bilgileri aynı bilgileri öğrenmek isteyen reel tanıştığı kişilerle pratik yapmak isteyenler
+* Şehrindeki network alanından faydalanmak isteyenler
 
 ## Product Backlog URL
 
@@ -79,7 +79,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 # Sprint 2
 * **Sprint Notları:** İlk sprintte uygulamanın UI UX arayüzüne karar verilip ve tasarımın ana şeması belirlenen uygulamanın kodlama aşamasına geçildi.
-* **Sprint içinde tamamlanması tahmin edilen puan:** 150 Puan
+* **Sprint içinde tamamlanması tahmin edilen puan:** 120 Puan
 * **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in iş yükü açısından 150 puan ile devam etmesi gerektiğine karar verildi.
 * **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
@@ -105,3 +105,25 @@ Sprint Retrospective katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Ce
 
 
 # Sprint 3
+* **Sprint Notları:** İkinci sprintte uygulamanın kodlama aşamasına geçildi ve revize edilerek üçüncü sprintte bitmesi hedefleniyor.
+* **Sprint içinde tamamlanması tahmin edilen puan:**  X Puan
+* **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in iş yükü açısından X puan ile devam etmesi gerektiğine karar verildi.
+* **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+* **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Meet, Slack ve WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:
+
+* **Sprint board update:** Sprint board screenshotları: 
+
+
+* **Ürün Durumu:** Ekran görüntüleri:
+
+
+* **Sprint Review:** Alınan kararlar: 
+
+  Sprint Review katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
+
+
+* **Sprint Retrospective:**
+
+Sprint Retrospective katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
