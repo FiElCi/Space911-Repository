@@ -2,7 +2,7 @@
 Space-911'in Meetime Adlı Ürün Repositorysidir.
 
 # Takım İsmi
-Takım Space-911
+ Space-911
 
 # Ürün İle İlgili Bilgiler
    
@@ -14,7 +14,7 @@ Takım Space-911
 * Muhsin Yaşar: Developer 
 
 ## Ürün İsmi
- --Meetime--
+   Meetime
 
 ## Ürün Açıklaması
 * Meetime uygulamamız ile ortak ilgi alanlarına sahip yakın konumdaki insanların iletişim kurmasını, gerçek hayatta görüşüp birbirlerini bu alanlarda desteklemesini, yakın konumdaki network alanı yaratmasını sağlayacağız. Meetime ile şehrinde kendi network alanınla tanış!
