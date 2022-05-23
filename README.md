@@ -17,7 +17,7 @@ Space-911'in Meetime Adlı Ürün Repositorysidir.
    Meetime
 
 ## Ürün Açıklaması
-* Meetime uygulamamız ile ortak ilgi alanlarına sahip yakın konumdaki insanların iletişim kurmasını, gerçek hayatta görüşüp birbirlerini bu alanlarda desteklemesini, yakın konumdaki kişilerin network alanı yaratmasını sağlayacağız. Meetime ile şehrinde kendi network alanını yarat!
+* Meetime uygulamamız ile ortak ilgi alanlarına sahip yakın konumdaki insanların iletişim kurmasını, gerçek hayatta görüşüp birbirlerini bu alanlarda desteklemesini, yakın konumdaki kişilerle network alanı yaratmasını sağlayacağız. Meetime ile şehrinde kendi network alanını yarat!
 
 ## Ürün Özellikleri
 
