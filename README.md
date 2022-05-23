@@ -103,7 +103,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![7](https://user-images.githubusercontent.com/99040081/169723855-ce2ae7c8-2db8-453c-a59d-42ba572deb39.jpeg)
 ![8](https://user-images.githubusercontent.com/99040081/169723861-61433533-9da7-4116-947e-098efc3668b8.jpeg)
 
-* **Sprint Review:** Alınan kararlar: Sprint review toplantısında uygulamamızın ilk sprinti tamamlar şekilde devam ettiği, tasarladığımız sayfaların koda döküldüğü,firebase işlemlerinin yapıldığı görüldü. 
+* **Sprint Review:** Alınan kararlar: Sprint review toplantısında uygulamamızın ilk sprinti tamamlar şekilde devam ettiği, tasarladığımız sayfaların koda döküldüğü,firebase işlemlerinin yapıldığı görüldü. Sprint Review toplantısı sonrasında Sprint Retrospektif toplantısı yapıldı ve ekip arkadaşları süreçteki katkılarından dolayı tebrik edildi.
 
 ![22 05 2022 2 sprint review ile retrospektif toplantısı](https://user-images.githubusercontent.com/99040081/169724900-504fc496-db45-4f92-bb47-b79d20c31228.PNG)
 
