@@ -87,21 +87,36 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 * **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Meet, Slack ve WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:
 
 * **Sprint board update:** Sprint board screenshotları: 
+![sprint board 2 1](https://user-images.githubusercontent.com/99040081/169723403-4c8a315c-ad8d-4923-8525-15b7b1e9879f.PNG)
 
+![sprint board 2 2](https://user-images.githubusercontent.com/99040081/169723405-255b735b-c9ab-4110-9b6b-7bfd7a1ad5e3.PNG)
+
+![sprint board 2 3](https://user-images.githubusercontent.com/99040081/169723410-2c691272-3f85-4354-a1ff-b61d730bf442.PNG)
 
 * **Ürün Durumu:** Ekran görüntüleri:
+![1](https://user-images.githubusercontent.com/99040081/169723796-e4eca9d5-48e6-4f47-b23c-ae53b4f823ad.jpeg)
+![2](https://user-images.githubusercontent.com/99040081/169723808-3cf85d84-fe27-4be1-8d9a-fbf40d205d7e.jpeg)
+![3](https://user-images.githubusercontent.com/99040081/169723821-9830c436-2c87-4e03-9367-5fdac889ea57.jpeg)
+![4](https://user-images.githubusercontent.com/99040081/169723826-310eed60-9146-429b-b08f-e827b16d6592.jpeg)
+![5](https://user-images.githubusercontent.com/99040081/169723831-b32b52cc-7c27-4494-b2c3-81fb3843420a.jpeg)
+![6](https://user-images.githubusercontent.com/99040081/169723834-8518c5ad-021f-4109-a5e0-1a20b2c8bb98.jpeg)
+![7](https://user-images.githubusercontent.com/99040081/169723855-ce2ae7c8-2db8-453c-a59d-42ba572deb39.jpeg)
+![8](https://user-images.githubusercontent.com/99040081/169723861-61433533-9da7-4116-947e-098efc3668b8.jpeg)
 
+* **Sprint Review:** Alınan kararlar: Sprint review toplantısında uygulamamızın ilk sprinti tamamlar şekilde devam ettiği, tasarladığımız sayfaların koda döküldüğü,firebase işlemlerinin yapıldığı görüldü. 
 
-* **Sprint Review:** Alınan kararlar: 
+![22 05 2022 2 sprint review ile retrospektif toplantısı](https://user-images.githubusercontent.com/99040081/169724900-504fc496-db45-4f92-bb47-b79d20c31228.PNG)
 
   Sprint Review katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
 
 
-* **Sprint Retrospective:**
+* **Sprint Retrospective:** Ekip toplantılara hazırlıklı ve zamanında katılım sağladı, ürün ilerlemesi için araştırmalarını ve fikirlerini rahatça sundu. Önceden belirlenen tarihlerde; sprint planlama toplantısı, (2)durum değerlendirme toplantısı, review ve retrospektif toplantıları yapıldı. Ekip arkadaşlarımızın rahatsızlığı ve sınavları olması sebebiyle sorunlar yaşansa da ekip içi çzüm sağlandı.
 
 Sprint Retrospective katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
 
+![toplantı 1 1](https://user-images.githubusercontent.com/99040081/169724830-50b3efbb-22a8-4a3b-95f5-a4583db19872.PNG)
 
+![toplantı1 2](https://user-images.githubusercontent.com/99040081/169724840-93bb99c1-5a19-47b3-947f-8cfa4864563c.PNG)
 
 
 # Sprint 3
@@ -114,23 +129,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 * **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Meet, Slack ve WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:
 
 * **Sprint board update:** Sprint board screenshotları: 
-![sprint board 2 1](https://user-images.githubusercontent.com/99040081/169723403-4c8a315c-ad8d-4923-8525-15b7b1e9879f.PNG)
-
-![sprint board 2 2](https://user-images.githubusercontent.com/99040081/169723405-255b735b-c9ab-4110-9b6b-7bfd7a1ad5e3.PNG)
-
-![sprint board 2 3](https://user-images.githubusercontent.com/99040081/169723410-2c691272-3f85-4354-a1ff-b61d730bf442.PNG)
 
 
 * **Ürün Durumu:** Ekran görüntüleri:
 
-![1](https://user-images.githubusercontent.com/99040081/169723796-e4eca9d5-48e6-4f47-b23c-ae53b4f823ad.jpeg)
-![2](https://user-images.githubusercontent.com/99040081/169723808-3cf85d84-fe27-4be1-8d9a-fbf40d205d7e.jpeg)
-![3](https://user-images.githubusercontent.com/99040081/169723821-9830c436-2c87-4e03-9367-5fdac889ea57.jpeg)
-![4](https://user-images.githubusercontent.com/99040081/169723826-310eed60-9146-429b-b08f-e827b16d6592.jpeg)
-![5](https://user-images.githubusercontent.com/99040081/169723831-b32b52cc-7c27-4494-b2c3-81fb3843420a.jpeg)
-![6](https://user-images.githubusercontent.com/99040081/169723834-8518c5ad-021f-4109-a5e0-1a20b2c8bb98.jpeg)
-![7](https://user-images.githubusercontent.com/99040081/169723855-ce2ae7c8-2db8-453c-a59d-42ba572deb39.jpeg)
-![8](https://user-images.githubusercontent.com/99040081/169723861-61433533-9da7-4116-947e-098efc3668b8.jpeg)
+
 
 * **Sprint Review:** Alınan kararlar: 
 
