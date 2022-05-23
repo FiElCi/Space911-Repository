@@ -113,7 +113,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   Sprint Review katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
 
 
-* **Sprint Retrospective:** Ekip toplantılara hazırlıklı ve zamanında katılım sağladı, ürün ilerlemesi için araştırmalarını ve fikirlerini rahatça sundu. Önceden belirlenen tarihlerde; sprint planlama toplantısı, (2)durum değerlendirme toplantısı, review ve retrospektif toplantıları yapıldı. Ekip arkadaşlarımızın rahatsızlığı ve sınavları olması sebebiyle sorunlar yaşansa da ekip içi çzüm sağlandı.
+* **Sprint Retrospective:** Ekip toplantılara hazırlıklı ve zamanında katılım sağladı, ürün ilerlemesi için araştırmalarını ve fikirlerini rahatça sundu. Önceden belirlenen tarihlerde; sprint planlama toplantısı, (2)durum değerlendirme toplantısı, review ve retrospektif toplantıları yapıldı. Ekip arkadaşlarımızın rahatsızlığı ve sınavları olması sebebiyle sorunlar yaşansa da ekip içi çözüm sağlandı.
 
 Sprint Retrospective katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
 
