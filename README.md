@@ -80,7 +80,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 # Sprint 2
 * **Sprint Notları:** İlk sprintte uygulamanın UI UX arayüzüne karar verilip ve tasarımın ana şeması belirlenen uygulamanın kodlama aşamasına geçildi.
 * **Sprint içinde tamamlanması tahmin edilen puan:** 120 Puan
-* **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in iş yükü açısından 150 puan ile devam etmesi gerektiğine karar verildi.
+* **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in iş yükü açısından 120 puan ile devam etmesi gerektiğine karar verildi.
 * **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
@@ -114,10 +114,23 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 * **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Meet, Slack ve WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:
 
 * **Sprint board update:** Sprint board screenshotları: 
+![sprint board 2 1](https://user-images.githubusercontent.com/99040081/169723403-4c8a315c-ad8d-4923-8525-15b7b1e9879f.PNG)
+
+![sprint board 2 2](https://user-images.githubusercontent.com/99040081/169723405-255b735b-c9ab-4110-9b6b-7bfd7a1ad5e3.PNG)
+
+![sprint board 2 3](https://user-images.githubusercontent.com/99040081/169723410-2c691272-3f85-4354-a1ff-b61d730bf442.PNG)
 
 
 * **Ürün Durumu:** Ekran görüntüleri:
 
+![1](https://user-images.githubusercontent.com/99040081/169723796-e4eca9d5-48e6-4f47-b23c-ae53b4f823ad.jpeg)
+![2](https://user-images.githubusercontent.com/99040081/169723808-3cf85d84-fe27-4be1-8d9a-fbf40d205d7e.jpeg)
+![3](https://user-images.githubusercontent.com/99040081/169723821-9830c436-2c87-4e03-9367-5fdac889ea57.jpeg)
+![4](https://user-images.githubusercontent.com/99040081/169723826-310eed60-9146-429b-b08f-e827b16d6592.jpeg)
+![5](https://user-images.githubusercontent.com/99040081/169723831-b32b52cc-7c27-4494-b2c3-81fb3843420a.jpeg)
+![6](https://user-images.githubusercontent.com/99040081/169723834-8518c5ad-021f-4109-a5e0-1a20b2c8bb98.jpeg)
+![7](https://user-images.githubusercontent.com/99040081/169723855-ce2ae7c8-2db8-453c-a59d-42ba572deb39.jpeg)
+![8](https://user-images.githubusercontent.com/99040081/169723861-61433533-9da7-4116-947e-098efc3668b8.jpeg)
 
 * **Sprint Review:** Alınan kararlar: 
 
