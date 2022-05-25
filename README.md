@@ -127,22 +127,28 @@ Sprint Retrospective katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Ce
 # Sprint 3
 * **Sprint Notları:** İkinci sprintte uygulamanın kodlama aşamasına geçildi ve revize edilerek üçüncü sprintte bitmesi hedefleniyor.
 * **Sprint içinde tamamlanması tahmin edilen puan:**  120 Puan
-* **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in iş yükü açısından 120 puan ile devam etmesi gerektiğine karar verildi.
+* **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in iş yükü açısından 120 puan ile tamamlanması gerektiğine karar verildi.
 * **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 * **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Meet, Slack ve WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:
 
+
+
 * **Sprint board update:** Sprint board screenshotları: 
+
+
 
 
 * **Ürün Durumu:** Ekran görüntüleri:
 
 
 
+
 * **Sprint Review:** Alınan kararlar: 
 
   Sprint Review katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
+
 
 
 * **Sprint Retrospective:**
