@@ -3,6 +3,8 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:meetime_app/constant/colors.dart';
 import 'package:meetime_app/constant/picture.dart';
 import 'package:meetime_app/constant/text_style.dart';
+import 'package:meetime_app/home.dart';
+import 'package:meetime_app/homepageavatarpage/home_page.dart';
 import 'login_page.dart';
 
 class SignUpPage extends StatefulWidget {
@@ -149,8 +151,15 @@ class _SignUpPageState extends State<SignUpPage> {
       mainAxisAlignment: MainAxisAlignment.end,
       children: [
         TextButton(
-            onPressed: () {},
-            child: Text("Üye Olmadan Giriş Yap",
+            onPressed: () {
+              //Üye olmadan devam et kısmı, kodları yazıldı. Navigation sayfası yani home.dart dosyasına yönlendirildi.
+              Navigator.push(context, MaterialPageRoute(
+              builder: (context) {
+                return HomeNavigatePage();
+              },
+            ));
+            },
+            child: Text("Üye Olmadan Devam Et",
                 style: TextStyleMeetime.headlinegrey14)),
         Icon(
           Icons.arrow_right_outlined,

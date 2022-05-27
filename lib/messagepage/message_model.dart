@@ -32,10 +32,10 @@ final User yaren = User(7, 'Yaren Çiçek', messageAvatar7 );
 
 //Chat Listesi
 List<Message> chats = [
-  Message(ahmet, '14:30PM', 'Merhaba, nasılsın? Bende Flutter Öğreniyorum', false, true),
-  Message(erdem, '13:30PM', 'Merhaba, nasılsın? Bende Flutter Öğreniyorum', true, false),
-  Message(anil, '14:30PM', 'Merhaba, nasılsın? Bende Flutter Öğreniyorum', false, true),
-  Message(deniz, '14:30PM', 'Merhaba, nasılsın? Bende Flutter Öğreniyorum', true, true),
-  Message(derya, '14:30PM', 'Merhaba, nasılsın? Bende Flutter Öğreniyorum', true, false),
-  Message(yaren, '14:30PM', 'Merhaba, nasılsın? Bende Flutter Öğreniyorum', false, true),
+  Message(ahmet, '14:30', 'Merhaba, nasılsın? Bende Flutter Öğreniyorum', true, true),
+  Message(erdem, '13:30', 'Merhaba, nasılsın? Bende Flutter Öğreniyorum', true, false),
+  Message(anil, '14:30', 'Merhaba, nasılsın? Bende Flutter Öğreniyorum', false, true),
+  Message(deniz, '14:30', 'Merhaba, nasılsın? Bende Flutter Öğreniyorum', true, true),
+  Message(derya, '14:30', 'Merhaba, nasılsın? Bende Flutter Öğreniyorum', true, false),
+  Message(yaren, '14:30', 'Merhaba, nasılsın? Bende Flutter Öğreniyorum', false, true),
 ];

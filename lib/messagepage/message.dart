@@ -29,7 +29,11 @@ class MessagePage extends StatelessWidget {
              Center(child: Text("Mesajlar", style: TextStyleMeetime.black38text20,)),
             Expanded(
               child: Container(
-
+                
+                decoration: BoxDecoration(
+                  color: ColorsPalette.greyPaletteshade50,
+                  borderRadius: const BorderRadius.only(topLeft: Radius.circular(30) , topRight: Radius.circular(30))
+                ),
                 child: ClipRRect(
                   borderRadius: const BorderRadius.all(Radius.circular(30)),
                   child: ListView.builder(
@@ -37,44 +41,68 @@ class MessagePage extends StatelessWidget {
                     itemBuilder: (BuildContext context, index) {
                       final Message chat = chats[index];
                       return Container(
-                        margin: const EdgeInsets.all(10.0),
+                        margin: const EdgeInsets.all(15.0),
                         decoration: BoxDecoration(
-                          color: chat.unread ? Colors.pink.shade50 : Colors.white,
-                          borderRadius: BorderRadius.circular(10)
+                          color:  ColorsPalette.greyPaletteshade50,
+                          borderRadius: BorderRadius.circular(50)
                         ),
                         child: Row(
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
-                            CircleAvatar(
-                              radius: 35.0,
-                              backgroundImage: AssetImage(chat.sender.imageAsset),
+                            Container(
+                             decoration: BoxDecoration(
+                               borderRadius: BorderRadius.circular(50),
+                               boxShadow: [
+                                 BoxShadow(
+                                  
+                                   color: ColorsPalette.greyPalette300,
+                                   offset: const Offset(4,4),
+                                   blurRadius: 4.0
+                                 )
+                               ]
+                             ),
+                              child: CircleAvatar(
+                                radius: 35.0,
+                                backgroundImage: AssetImage(chat.sender.imageAsset),
+                              ),
                             ),
                             const SizedBox(height: 5.0),
                             Column(
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                                 Text(
-                                  chat.sender.name, style: TextStyleMeetime.black38text20
+                                  chat.sender.name, style: TextStyleMeetime.blacktext20
                                 ),
                                 const SizedBox(height: 5.0),
                                 Container(
-                                  width: MediaQuery.of(context).size.width *0.45,
-                                  child: Text(chat.text,
-                                  style: TextStyleMeetime.blacktext16,
-                                  overflow: TextOverflow.ellipsis,
+                                  decoration: BoxDecoration(
+                                    color: ColorsPalette.greyPaletteshade50,
+                                    borderRadius: BorderRadius.circular(30),
+                                    border: Border.all(
+                                      color: ColorsPalette.greyPalette200,
+                                      width: 3,
+                                    )
+                                  ),
+                                  height: 42,
+                                  width: MediaQuery.of(context).size.width *0.60,
+                                  child: Center(
+                                    child: Text(chat.text,
+                                    style: TextStyleMeetime.black45text18,
+                                    overflow: TextOverflow.ellipsis,
+                                    ),
                                   ),
                                 )
                               ],
                             ),
                             Container(
-                             padding: const EdgeInsets.only(right: 1.0),
+                             padding: const EdgeInsets.only(right: 2.0),
                              child: Column(
                               children: [
-                                Text(chat.time, style: TextStyleMeetime.blacktext14,),
-                             SizedBox(height: 5.0,),
+                                Text(chat.time, style: TextStyleMeetime.black38text14,),
+                             const SizedBox(height: 5.0,),
                              chat.unread
                                 ? Container(
-                                  width: 40,
+                                  width: 50,
                                   height: 20,
                                   decoration: BoxDecoration(
                                     color: Colors.pink.shade300,

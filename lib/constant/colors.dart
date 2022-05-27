@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 //Renkler
 class ColorsPalette{
-  static Color pinkPalette = const Color(0xE83173);
+  static Color pinkPalette = Color.fromARGB(225, 232, 49, 116);
   static Color pinkOpacityPalette80 = const Color.fromRGBO(232, 49, 115, 80);
   static Color pinkOpacityPalette10 = Color.fromRGBO(232, 49, 115, 10);
   static Color whitePalette = Colors.white;
@@ -16,5 +16,7 @@ class ColorsPalette{
   static Color pinkPalette100 = Colors.pink.shade100;
   static Color greyPalette300 = Colors.grey.shade300;
   static Color greyPalette200 = Colors.grey.shade200;
+//Yeni renk eklendi, mesaj sayfası için;
+  static Color greyPaletteshade50 = Colors.grey.shade50;
 
 }

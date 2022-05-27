@@ -9,7 +9,7 @@ import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 import 'login_signup/sign_up_page.dart';
 
 class SwapScreenInto extends StatefulWidget {
- const SwapScreenInto({Key? key}) : super(key: key);
+  const SwapScreenInto({Key? key}) : super(key: key);
 
   @override
   State<SwapScreenInto> createState() => _SwapScreenIntoState();
@@ -31,7 +31,7 @@ class _SwapScreenIntoState extends State<SwapScreenInto> {
                 });
               },
               children: const [
-                //İNTRO_PAGES DE TÜM SAYFALARIN KODLARI BULUNUYOR 
+                //İNTRO_PAGES DE TÜM SAYFALARIN KODLARI BULUNUYOR
                 FirstPage(),
                 TwoPage(),
                 ThreePage(),
@@ -42,14 +42,25 @@ class _SwapScreenIntoState extends State<SwapScreenInto> {
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
-                  GestureDetector(
-                      onTap: () {
-                        _controller.jumpToPage(4);
-                      },
-                      child: Text(
-                        "skip",
-                        style: TextStyleMeetime.blacktext14,
-                      )),
+                  //Butonların, şekillendirilmesi yapıldı.
+                  Container(
+                    height: 30,
+                    width: 60,
+                    decoration: BoxDecoration(
+                      borderRadius: BorderRadius.all(Radius.circular(50)),
+                      color: ColorsPalette.pinkOpacityPalette80
+                    ),
+                    child: GestureDetector(
+                        onTap: () {
+                          _controller.jumpToPage(4);
+                        },
+                        child: Center(
+                          child: Text(
+                            "Atla",
+                            style: TextStyleMeetime.whitetext16
+                          ),
+                        )),
+                  ),
                   SmoothPageIndicator(
                       effect: SwapEffect(
                         activeDotColor: ColorsPalette.pinkOpacityPalette80,
@@ -60,26 +71,49 @@ class _SwapScreenIntoState extends State<SwapScreenInto> {
                       controller: _controller,
                       count: 4),
                   onLastPage
-                      ? GestureDetector(
-                          onTap: () {
-                           Navigator.push(context, MaterialPageRoute(builder: (context) {
-                             return SignUpPage();
-                           },));
-                          },
-                          child: Text(
-                            "Done",
-                            style: TextStyleMeetime.blacktext14,
-                          ))
-                      : GestureDetector(
-                          onTap: () {
-                            _controller.nextPage(
-                                duration:const Duration(milliseconds: 300),
-                                curve: Curves.easeIn);
-                          },
-                          child: Text(
-                            "Next",
-                            style: TextStyleMeetime.blacktext14,
-                          ))
+                      ? Container(
+                        height: 30,
+                          width: 60,
+                          decoration: BoxDecoration(
+                            borderRadius: BorderRadius.all(Radius.circular(50)),
+                            color: ColorsPalette.pinkOpacityPalette80,
+                          ),
+                        child: GestureDetector(
+                            onTap: () {
+                              Navigator.push(context, MaterialPageRoute(
+                                builder: (context) {
+                                  return SignUpPage();
+                                },
+                              ));
+                            },
+                            child: Center(
+                              child: Text(
+                                "Bitti",
+                                style: TextStyleMeetime.whitetext16
+                              ),
+                            )),
+                      )
+                      : Container(
+                        //Bunların şekillendirilmesi yaopıldı.
+                          height: 30,
+                          width: 60,
+                          decoration: BoxDecoration(
+                            borderRadius: BorderRadius.all(Radius.circular(50)),
+                            color: ColorsPalette.pinkOpacityPalette80,
+                          ),
+                          child: GestureDetector(
+                              onTap: () {
+                                _controller.nextPage(
+                                    duration: const Duration(milliseconds: 300),
+                                    curve: Curves.easeIn);
+                              },
+                              child: Center(
+                                child: Text(
+                                  "İlerle",
+                                  style: TextStyleMeetime.whitetext16
+                                ),
+                              )),
+                        )
                 ],
               ))
         ],

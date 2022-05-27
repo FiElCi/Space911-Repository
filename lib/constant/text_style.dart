@@ -15,4 +15,9 @@ class TextStyleMeetime {
   static final  blacktext14 = GoogleFonts.notoSans(fontSize: 14, color: const Color.fromRGBO(0, 0, 0, 50));
   static final  whitetext14 = GoogleFonts.notoSans(fontSize: 14, color:  Colors.white);
   static final  bluetext14 = GoogleFonts.notoSans(fontSize: 14, color: const Color.fromRGBO(5, 139, 215, 75), fontWeight: FontWeight.bold);
+
+//Yeni style eklendi message sayfası için;
+  static final  black45text18 = GoogleFonts.notoSans(fontSize: 18, letterSpacing:0.15,color: Colors.black45);
+  static final  black54text18 = GoogleFonts.notoSans(fontSize: 18, letterSpacing:0.15,color: Colors.black54);
+  static final  black38text14 = GoogleFonts.notoSans(fontSize: 14, color: Colors.black54);
 }
