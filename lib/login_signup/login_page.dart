@@ -1,8 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:meetime_app/constant/picture.dart';
 import 'package:meetime_app/home.dart';
+import 'package:meetime_app/service/auth.dart';
 import '../constant/colors.dart';
 import '../constant/text_style.dart';
+
+//Değişkenler tanımlandı.
+final TextEditingController _emailController = TextEditingController();
+final TextEditingController _passwordController = TextEditingController();
+
+//AuthService Değişkeni eklendi
+AuthService _authService = AuthService();
 
 class LoginPage extends StatefulWidget {
   LoginPage({Key? key}) : super(key: key);
@@ -91,6 +99,10 @@ class _LoginPageState extends State<LoginPage> {
             primary: ColorsPalette.pinkOpacityPalette80,
           ),
           onPressed: () {
+            //Firebase Giriş İşlemleri
+            _authService.signIn(
+                _emailController.text, _passwordController.text);
+            // Bitiş
             Navigator.push(context, MaterialPageRoute(
               builder: (context) {
                 return HomeNavigatePage();
@@ -104,7 +116,7 @@ class _LoginPageState extends State<LoginPage> {
     );
   }
 
-    _inputGoogleLogin(context) {
+  _inputGoogleLogin(context) {
     return Row(
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
