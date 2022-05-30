@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:meetime_app/homepageavatarpage/home_page_avatar.dart';
 //AvatarButton Tasarımı
 Widget HomePageAvatarButton(HomePageAvatar avatar, BuildContext context) {
+  
   return Padding(
     padding: const EdgeInsets.all(8.0),
     child: Column(
@@ -10,7 +11,7 @@ Widget HomePageAvatarButton(HomePageAvatar avatar, BuildContext context) {
         InkWell(
           borderRadius: BorderRadius.circular(50.0),
           onTap: (){
-
+            
           },
           child: Container(
             width: 70.0,
@@ -39,3 +40,4 @@ Widget HomePageAvatarButton(HomePageAvatar avatar, BuildContext context) {
     ),
   );
 }
+

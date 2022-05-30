@@ -158,8 +158,15 @@ class _SignUpPageState extends State<SignUpPage> {
       mainAxisAlignment: MainAxisAlignment.end,
       children: [
         TextButton(
-            onPressed: () {},
-            child: Text("Üye Olmadan Giriş Yap",
+            onPressed: () {
+              //Üye olmadan devam et kısmı, kodları yazıldı. Navigation sayfası yani home.dart dosyasına yönlendirildi.
+              Navigator.push(context, MaterialPageRoute(
+              builder: (context) {
+                return HomeNavigatePage();
+              },
+            ));
+            },
+            child: Text("Üye Olmadan Devam Et",
                 style: TextStyleMeetime.headlinegrey14)),
         Icon(
           Icons.arrow_right_outlined,
