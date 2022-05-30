@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194038876732",
+    "project_id": "meetemp3-f95e6",
+    "storage_bucket": "meetemp3-f95e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194038876732:android:2a55d31786d11e01d25139",
+        "android_client_info": {
+          "package_name": "com.example.meetime_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194038876732-g16aq3c9av7e50gmjbiphd56g5vh462f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmdJ5eWwEmJjeGDTvPEGHXU50_71RENrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194038876732-g16aq3c9av7e50gmjbiphd56g5vh462f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -3,9 +3,16 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:meetime_app/constant/colors.dart';
 import 'package:meetime_app/constant/picture.dart';
 import 'package:meetime_app/constant/text_style.dart';
-import 'package:meetime_app/home.dart';
-import 'package:meetime_app/homepageavatarpage/home_page.dart';
+import 'package:meetime_app/service/auth.dart';
 import 'login_page.dart';
+import 'package:meetime_app/homepageavatarpage/home_page.dart';
+import 'package:meetime_app/home.dart';
+//FİREBASE TANIMLAMA
+final TextEditingController _emailController = TextEditingController();
+final TextEditingController _passwordController = TextEditingController();
+final TextEditingController _usernameController = TextEditingController();
+
+AuthService _authService=AuthService();
 
 class SignUpPage extends StatefulWidget {
   SignUpPage({Key? key}) : super(key: key);
@@ -113,7 +120,7 @@ class _SignUpPageState extends State<SignUpPage> {
     return Row(mainAxisAlignment: MainAxisAlignment.center, children: [
       Text("Yoksa üyemiz misin?", style: TextStyleMeetime.headlinegrey14),
       TextButton(
-          onPressed: () {
+          onPressed: () { _authService.createPerson(_usernameController.text,_emailController.text,_passwordController.text).then;
             Navigator.push(context, MaterialPageRoute(
               builder: (context) {
                 return LoginPage();
