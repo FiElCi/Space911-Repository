@@ -51,6 +51,7 @@ class _LoginPageState extends State<LoginPage> {
   _inputField(context) {
     return Column(children: [
       TextField(
+        controller: _emailController,
         decoration: InputDecoration(
           prefixIcon: const Icon(
             Icons.mail,
@@ -67,6 +68,7 @@ class _LoginPageState extends State<LoginPage> {
         height: 20,
       ),
       TextField(
+        controller: _passwordController,
         decoration: InputDecoration(
           prefixIcon: const Icon(Icons.check),
           label: Text("Password", style: TextStyleMeetime.headline16subtitle),
