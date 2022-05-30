@@ -5,6 +5,8 @@ import 'package:meetime_app/constant/picture.dart';
 import 'package:meetime_app/constant/text_style.dart';
 import 'package:meetime_app/service/auth.dart';
 import 'login_page.dart';
+import 'package:meetime_app/homepageavatarpage/home_page.dart';
+import 'package:meetime_app/home.dart';
 //FİREBASE TANIMLAMA
 final TextEditingController _emailController = TextEditingController();
 final TextEditingController _passwordController = TextEditingController();
