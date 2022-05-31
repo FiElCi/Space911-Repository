@@ -39,3 +39,14 @@ List<Message> chats = [
   Message(derya, '14:30', 'Merhaba, nasılsın? Bende Flutter Öğreniyorum', true, false),
   Message(yaren, '14:30', 'Merhaba, nasılsın? Bende Flutter Öğreniyorum', false, true),
 ];
+
+
+List<Message> messages = [
+  Message(ahmet, '14.30',  'Nasılsın', true, true),
+  Message(currentUser, '14.35',  'İyiyim sen, Nasılsın', true, true),
+  Message(ahmet, '14.45',  'Sağol, Nasılsın', true, true),
+  Message(currentUser, '14.55',  'İyiyim sen, Nasılsın', true, true),
+  Message(ahmet, '15.00',  'İyiyim sen, Nasılsın', true, true),
+  Message(currentUser, '15.05',  'İyiyim sen, Nasılsın', true, true),
+  Message(ahmet, '15.10',  'İyiyim sen, Nasılsın', true, true),
+];
