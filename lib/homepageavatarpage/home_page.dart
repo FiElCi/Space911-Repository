@@ -4,6 +4,7 @@ import 'package:meetime_app/constant/picture.dart';
 import 'package:meetime_app/constant/text_style.dart';
 import 'package:meetime_app/homepageavatarpage/home_page_avatar.dart';
 import 'package:meetime_app/homepageavatarpage/home_page_avatar_button.dart';
+import 'package:meetime_app/searchpage/search.dart';
 
 
 class HomePage extends StatefulWidget {
@@ -246,7 +247,9 @@ class ElevationButtonHome extends StatelessWidget {
            style: ElevatedButton.styleFrom(
              primary: ColorsPalette.greyOpacityPalette50,
            ),
-            onPressed: () {
+            onPressed: () { Navigator.push(context, MaterialPageRoute(
+              builder: (context) {
+                return SearchPage();
               
             },
             child: Text(userInterest,

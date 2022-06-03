@@ -4,6 +4,8 @@ import 'package:meetime_app/home.dart';
 import 'package:meetime_app/service/auth.dart';
 import '../constant/colors.dart';
 import '../constant/text_style.dart';
+import '../service/google_sign_in.dart';
+import 'package:path_provider/path_provider.dart';
 
 //Değişkenler tanımlandı.
 final TextEditingController _emailController = TextEditingController();
@@ -128,7 +130,12 @@ class _LoginPageState extends State<LoginPage> {
           width: 24,
         ),
         TextButton(
-            onPressed: () {},
+            onPressed: () {
+               final provider =
+                                      Provider.of<GoogleSignInProvider>(context,
+                                          listen: false);
+                                  provider.login();
+            },
             child: Text(
               "Google ile Giriş Yap",
               style: TextStyleMeetime.headline16subtitle,
