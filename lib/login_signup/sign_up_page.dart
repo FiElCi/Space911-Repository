@@ -12,8 +12,6 @@ final TextEditingController _emailController = TextEditingController();
 final TextEditingController _passwordController = TextEditingController();
 final TextEditingController _usernameController = TextEditingController();
 
-AuthService _authService=AuthService();
-
 class SignUpPage extends StatefulWidget {
   SignUpPage({Key? key}) : super(key: key);
 
@@ -120,7 +118,7 @@ class _SignUpPageState extends State<SignUpPage> {
     return Row(mainAxisAlignment: MainAxisAlignment.center, children: [
       Text("Yoksa üyemiz misin?", style: TextStyleMeetime.headlinegrey14),
       TextButton(
-          onPressed: () { _authService.createPerson(_usernameController.text,_emailController.text,_passwordController.text).then;
+          onPressed: () { 
             Navigator.push(context, MaterialPageRoute(
               builder: (context) {
                 return LoginPage();
