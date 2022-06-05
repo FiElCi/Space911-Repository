@@ -7,9 +7,6 @@ class AuthService {
 
   //giriş yap fonksiyonu
   Future<User?> signIn(String email, String password) async {
-    var user = await _auth.signInWithEmailAndPassword(
-        email: email, password: password);
-    return user.user;
   }
 
   //çıkış yap fonksiyonu
