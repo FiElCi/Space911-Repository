@@ -83,7 +83,7 @@ class _HomePageState extends State<HomePage> {
                 child: Padding(
                 padding: const EdgeInsets.all(35.0),
                 child: Text(
-                  "Seninle tanışmak güzel, aramıza Hoş Geldin, Lütfen yukarıdaki seçeneklerden ilgi alanını seçerek, bizimle paylaşır mısın? Yeni dostlukların için şimdiden çok heyecanlıyız. İyi Eğlenceler.",
+                  "Seninle tanışmak güzel, aramıza Hoş Geldin, Lütfen yukarıdaki seçeneklerden ilgi alanını seçerek, bizimle paylaşır mısın? Yeni dostlukların için şimdiden çok heyecanlıyız. İyi Eğlenceler.(Şimdilik Sadece Kodlama Kısmında Çalışıyoruz, anlayışın için teşekkürler.)",
                   style: TextStyleMeetime.black38text20,
                 ),
               )),

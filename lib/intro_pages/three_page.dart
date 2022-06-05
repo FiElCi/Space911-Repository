@@ -15,6 +15,10 @@ class ThreePage extends StatelessWidget {
         children: [
         Container(
             child: SvgPicture.asset(greenPicture), width: 360, height: 460),
+            Text('City illustrations by Storyset', 
+        style: TextStyleMeetime.black38text14,
+        textAlign: TextAlign.end,
+        ),
         Text(
           "Gerçek Hayatta Buluş",
           style: TextStyleMeetime.headline24light,

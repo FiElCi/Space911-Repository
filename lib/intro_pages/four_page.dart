@@ -15,6 +15,10 @@ class FourPage extends StatelessWidget {
         children: [
         Container(
             child: SvgPicture.asset(orangePicture), width: 460, height: 460),
+         Text('People illustrations by Storyset', 
+        style: TextStyleMeetime.black38text14,
+        textAlign: TextAlign.end,
+        ),   
         Text(
           "Arkadaşlıkların gerçek olsun",
           style: TextStyleMeetime.headline24light,

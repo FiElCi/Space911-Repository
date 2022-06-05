@@ -15,6 +15,10 @@ class TwoPage extends StatelessWidget {
         children: [
         Container(
             child: SvgPicture.asset(pinkPicture), width: 360, height: 360),
+        Text('Online illustrations by Storyset', 
+        style: TextStyleMeetime.black38text14,
+        textAlign: TextAlign.end,
+        ),
         Text(
           "Ortak İlgi Alanına Sahip Kişilerle Tanış",
           style: TextStyleMeetime.headline24light,
