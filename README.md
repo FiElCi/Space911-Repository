@@ -109,10 +109,10 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![8](https://user-images.githubusercontent.com/99040081/169723861-61433533-9da7-4116-947e-098efc3668b8.jpeg)
 
 * **Sprint Review:** Alınan kararlar: Sprint review toplantısında uygulamamızın ilk sprinti tamamlar şekilde devam ettiği, tasarladığımız sayfaların koda döküldüğü,firebase işlemlerinin yapıldığı görüldü. Sprint Review toplantısı sonrasında Sprint Retrospektif toplantısı yapıldı ve ekip arkadaşları süreçteki katkılarından dolayı tebrik edildi.
-
+Sprint Review katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
 ![22 05 2022 2 sprint review ile retrospektif toplantısı](https://user-images.githubusercontent.com/99040081/169724900-504fc496-db45-4f92-bb47-b79d20c31228.PNG)
 
-  Sprint Review katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
+  
 
 
 * **Sprint Retrospective:** Ekip toplantılara hazırlıklı ve zamanında katılım sağladı, ürün ilerlemesi için araştırmalarını ve fikirlerini rahatça sundu. Önceden belirlenen tarihlerde; sprint planlama toplantısı, (2)durum değerlendirme toplantısı, review ve retrospektif toplantıları yapıldı. Ekip arkadaşlarımızın rahatsızlığı ve sınavları olması sebebiyle sorunlar yaşansa da ekip içi çözüm sağlandı.
@@ -159,15 +159,17 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 
-* **Sprint Review:** Alınan kararlar: 
+* **Sprint Review:** Sprint review toplantısında uygulamamızın aslında hayal ettiğimiz gibi tasarlasak da backend aşamasında aldığımız hataları çabaladığımız halde çözümleyemediğimiz gördük. Bu da bize tecrübe olarak kaldı.  Sprint Review toplantısı sonrasında Sprint Retrospektif toplantısı yapıldı ve ekip arkadaşları süreçteki katkılarından dolayı tebrik edildi.
 
-  Sprint Review katılımcıları:  
-
-
-* **Sprint Retrospective:**
-
-Sprint Retrospective katılımcıları:   
+  Sprint Review katılımcıları:  Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
+![image](https://user-images.githubusercontent.com/99040081/172231418-d9382c36-a222-4237-90fd-7443e33858df.png)
 
 
+* **Sprint Retrospective:** Ekip toplantılara hazırlıklı ve zamanında katılım sağladı. Önceden belirlenen tarihlerde; sprint planlama toplantısı, (2)durum değerlendirme toplantısı, review ve retrospektif toplantıları yapıldı. ^ Uzaktan çalışma şartları, başlangıç için seçilen projenin zorluğu, ekip için iletişim ^ gibi etmenlerce uygulamada  yaşadığımız problemleri çözümleyemedik ve uygulamayı istediğimiz şekilde tamamlayamadık.
+
+Sprint Retrospective katılımcıları: Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
+
+
+![image](https://user-images.githubusercontent.com/99040081/172231424-b0c95230-5f7a-4e5b-8c4d-8b92a6d34027.png)
 
 
