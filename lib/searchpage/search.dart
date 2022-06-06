@@ -17,9 +17,10 @@ class _SearchPageState extends State<SearchPage> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
+          resizeToAvoidBottomInset: false, // set it to false
           backgroundColor: Theme.of(context).primaryColor,
           body: Column(
-            children: [
+            children: [ 
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
