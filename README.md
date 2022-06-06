@@ -172,4 +172,6 @@ Sprint Retrospective katılımcıları: Firdevs Elif Çiftcier, Taha Furkan Ceng
 
 ![image](https://user-images.githubusercontent.com/99040081/172231424-b0c95230-5f7a-4e5b-8c4d-8b92a6d34027.png)
 
+![toplantı](https://user-images.githubusercontent.com/99040081/172235661-474739df-8b8d-4bd4-b5e0-cbfd0d887750.PNG)
+
 
