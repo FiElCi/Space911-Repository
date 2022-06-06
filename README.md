@@ -109,10 +109,10 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![8](https://user-images.githubusercontent.com/99040081/169723861-61433533-9da7-4116-947e-098efc3668b8.jpeg)
 
 * **Sprint Review:** Alınan kararlar: Sprint review toplantısında uygulamamızın ilk sprinti tamamlar şekilde devam ettiği, tasarladığımız sayfaların koda döküldüğü,firebase işlemlerinin yapıldığı görüldü. Sprint Review toplantısı sonrasında Sprint Retrospektif toplantısı yapıldı ve ekip arkadaşları süreçteki katkılarından dolayı tebrik edildi.
-
+Sprint Review katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
 ![22 05 2022 2 sprint review ile retrospektif toplantısı](https://user-images.githubusercontent.com/99040081/169724900-504fc496-db45-4f92-bb47-b79d20c31228.PNG)
 
-  Sprint Review katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
+  
 
 
 * **Sprint Retrospective:** Ekip toplantılara hazırlıklı ve zamanında katılım sağladı, ürün ilerlemesi için araştırmalarını ve fikirlerini rahatça sundu. Önceden belirlenen tarihlerde; sprint planlama toplantısı, (2)durum değerlendirme toplantısı, review ve retrospektif toplantıları yapıldı. Ekip arkadaşlarımızın rahatsızlığı ve sınavları olması sebebiyle sorunlar yaşansa da ekip içi çözüm sağlandı.
@@ -125,7 +125,7 @@ Sprint Retrospective katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Ce
 
 
 # Sprint 3
-* **Sprint Notları:** İkinci sprintte uygulamanın kodlama aşamasına geçildi ve revize edilerek üçüncü sprintte bitmesi hedefleniyor.
+* **Sprint Notları:** İkinci sprintte uygulamanın kodlama aşamasına geçildi ve revize edilerek üçüncü sprintte bitmesi hedefleniyordu. Uygulama da Firebase işlemlerini tamamlamayadık. Uygulamaya giriş yaptıktan sonra kalan kısımlar Uı taasarım olarak kaldı.
 * **Sprint içinde tamamlanması tahmin edilen puan:**  120 Puan
 * **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in iş yükü açısından 120 puan ile tamamlanması gerektiğine karar verildi.
 * **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
@@ -133,24 +133,45 @@ Sprint Retrospective katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Ce
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 * **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Meet, Slack ve WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:
 
+[3.sprint Daily Scrum.docx](https://github.com/FiElCi/Space911-Repository/files/8846748/3.sprint.Daily.Scrum.docx)
 
 
 * **Sprint board update:** Sprint board screenshotları: 
 
+![miro2](https://user-images.githubusercontent.com/99040081/172229420-5d152f53-2c17-4ee4-8f8c-b18bf5cba820.PNG)
+![miro3](https://user-images.githubusercontent.com/99040081/172229430-d4709b57-6fec-474a-af31-5ca184f95940.PNG)
+![Miro1](https://user-images.githubusercontent.com/99040081/172229437-8569029c-44f0-49cb-8554-9bb5ef9023d4.PNG)
 
 
 
 * **Ürün Durumu:** Ekran görüntüleri:
 
+![WhatsApp Image 2022-06-06 at 21 25 27 (1)](https://user-images.githubusercontent.com/99040081/172228735-124d5ce0-2849-4985-b86b-127a59897e74.jpeg)
+![WhatsApp Image 2022-06-06 at 21 25 27 (2)](https://user-images.githubusercontent.com/99040081/172228739-ca7a8dcf-dab9-4c9d-831d-f45e7db3c2e0.jpeg)
+![WhatsApp Image 2022-06-06 at 21 25 27](https://user-images.githubusercontent.com/99040081/172228742-8e193361-ad69-4cb6-9d9d-85a7747b0087.jpeg)
+![WhatsApp Image 2022-06-06 at 21 25 28 (1)](https://user-images.githubusercontent.com/99040081/172228745-290abc48-0eaf-4b72-a0ff-2d9e63641d30.jpeg)
+![WhatsApp Image 2022-06-06 at 21 25 28 (2)](https://user-images.githubusercontent.com/99040081/172228753-99fc5a89-71e1-4638-8d34-dae0c9bc8a99.jpeg)
+![WhatsApp Image 2022-06-06 at 21 25 28 (3)](https://user-images.githubusercontent.com/99040081/172228756-b71372f7-1092-4f30-ae0b-00fc2c5e21a2.jpeg)
+![WhatsApp Image 2022-06-06 at 21 25 28](https://user-images.githubusercontent.com/99040081/172228758-381c9536-8f48-4b7f-a34a-83fdbd989684.jpeg)
+![WhatsApp Image 2022-06-06 at 21 25 29 (1)](https://user-images.githubusercontent.com/99040081/172228763-56c6976f-9bc8-4c61-938b-b271844b6962.jpeg)
+![WhatsApp Image 2022-06-06 at 21 25 29](https://user-images.githubusercontent.com/99040081/172228766-93eb7f1f-0041-4518-948f-a4f747e0a074.jpeg)
+![WhatsApp Image 2022-06-06 at 21 25 26](https://user-images.githubusercontent.com/99040081/172228769-5a65d898-f884-4e90-8190-9c73a5a8bada.jpeg)
 
 
 
-* **Sprint Review:** Alınan kararlar: 
+* **Sprint Review:** Sprint review toplantısında uygulamamızın aslında hayal ettiğimiz gibi tasarlasak da backend aşamasında aldığımız hataları çabaladığımız halde çözümleyemediğimiz gördük. Bu da bize tecrübe olarak kaldı.  Sprint Review toplantısı sonrasında Sprint Retrospektif toplantısı yapıldı ve ekip arkadaşları süreçteki katkılarından dolayı tebrik edildi.
 
-  Sprint Review katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
+  Sprint Review katılımcıları:  Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
+![image](https://user-images.githubusercontent.com/99040081/172231418-d9382c36-a222-4237-90fd-7443e33858df.png)
 
 
+* **Sprint Retrospective:** Ekip toplantılara hazırlıklı ve zamanında katılım sağladı. Önceden belirlenen tarihlerde; sprint planlama toplantısı, (2)durum değerlendirme toplantısı, review ve retrospektif toplantıları yapıldı. ^ Uzaktan çalışma şartları, başlangıç için seçilen projenin zorluğu, ekip için iletişim ^ gibi etmenlerce uygulamada  yaşadığımız problemleri çözümleyemedik ve uygulamayı istediğimiz şekilde tamamlayamadık.
 
-* **Sprint Retrospective:**
+Sprint Retrospective katılımcıları: Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
 
-Sprint Retrospective katılımcıları:   Firdevs Elif Çiftcier, Taha Furkan Cengiz, Melek Mahmutoğlu, Muhsin Yaşar
+
+![image](https://user-images.githubusercontent.com/99040081/172231424-b0c95230-5f7a-4e5b-8c4d-8b92a6d34027.png)
+
+![toplantı](https://user-images.githubusercontent.com/99040081/172235661-474739df-8b8d-4bd4-b5e0-cbfd0d887750.PNG)
+
+
